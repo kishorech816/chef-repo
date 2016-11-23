@@ -56,3 +56,4 @@ $RECYCLE.BIN/
 .vagrant
 .vagrant/**
 .rvmrc.vagrant/
+nodes/
